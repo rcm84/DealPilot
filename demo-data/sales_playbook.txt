@@ -1,0 +1,49 @@
+Document Type: Internal Sales Playbook
+Company Name: DealPilot (Internal)
+Contact Person: Emily Ross
+Role: VP Sales
+Version: 2026 Q2
+
+Purpose:
+Provide a repeatable framework for qualifying, advancing, and closing AI sales copilot opportunities in B2B SaaS accounts.
+
+Ideal Customer Profile (ICP):
+- SaaS companies with 50-500 quota-carrying reps.
+- Existing CRM + conversation intelligence stack (Salesforce, HubSpot, Gong, or Chorus).
+- Leadership mandate to improve forecast accuracy and rep productivity.
+
+Common Buyer Roles:
+1) RevOps Leader (process owner)
+2) CRO / VP Sales (economic buyer)
+3) Sales Enablement (adoption owner)
+4) Salesforce Admin / IT Security (technical validators)
+
+Top Pain Points to Diagnose:
+- Incomplete opportunity hygiene and weak next-step discipline.
+- Low manager visibility into deal execution quality.
+- Long onboarding time for new reps.
+- Forecast calls driven by anecdotes instead of evidence.
+
+Core Opportunity Themes:
+1) Productivity Gain: reduce manual note-taking and CRM updates.
+2) Forecast Confidence: surface at-risk deals earlier.
+3) Coaching at Scale: prioritize manager intervention opportunities.
+4) Methodology Enforcement: identify qualification gaps automatically.
+
+Discovery Questions:
+- Which forecast KPI is currently least trusted?
+- Where do reps lose the most time in post-call workflows?
+- How is deal risk defined today, and who owns that definition?
+- What would make a pilot unquestionably successful after 30 days?
+
+Pilot Design Template:
+- Cohort: 20-50 users across two teams.
+- Duration: 30 days.
+- Integrations: CRM + call recording platform.
+- Weekly cadence: adoption review, quality review, executive readout.
+
+Standard Next Steps for Qualified Deals:
+1) Confirm success metrics and baseline values.
+2) Finalize technical validation scope.
+3) Run security review and legal checklist.
+4) Present pilot-to-production rollout plan with ROI estimate.

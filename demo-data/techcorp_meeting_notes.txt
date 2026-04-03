@@ -1,0 +1,41 @@
+Document Type: Account Meeting Notes
+Company Name: TechCorp Solutions
+Contact Person: Maya Chen
+Role: VP of Sales Operations
+Deal Stage: Discovery / Early Evaluation
+Last Interaction Date: 2026-03-27
+
+Executive Summary:
+TechCorp is scaling from 80 to 150 quota-carrying reps in the next 12 months. Their leadership team needs better pipeline visibility, cleaner forecast rollups, and less manual CRM admin. Maya is evaluating AI copilots to reduce rep busywork and improve manager coaching quality.
+
+Primary Pain Points:
+1) CRM data quality is inconsistent; many opportunities have incomplete next-step fields.
+2) Forecast calls rely on manual spreadsheet reconciliation every Friday.
+3) New reps ramp slowly because playbooks are scattered across tools.
+4) Managers do not have a reliable way to review call quality at scale.
+
+Opportunities for DealPilot:
+1) Auto-generated call summaries and action items can enforce CRM hygiene.
+2) Deal risk scoring can highlight stalled opportunities before forecast meetings.
+3) Role-specific guidance can accelerate onboarding for new account executives.
+4) Account-level timeline views can support executive deal reviews.
+
+Buying Signals:
+- Maya requested security documentation and SSO/SCIM capability details.
+- RevOps analyst asked for API docs to sync notes into Salesforce custom objects.
+- CRO joined final 10 minutes and asked about enterprise rollout timeline.
+
+Success Criteria (as stated by buyer):
+- 25% reduction in rep admin time within 60 days.
+- 15% increase in opportunity data completeness.
+- Forecast variance reduced from +/-18% to under +/-10%.
+
+Open Risks / Objections:
+- Concern about model hallucinations in customer-facing email drafts.
+- Need assurance that sensitive enterprise deal data remains tenant-isolated.
+
+Next Steps:
+1) Send technical architecture and security brief by 2026-04-05.
+2) Schedule 45-minute workflow demo with RevOps + Sales Enablement.
+3) Propose 30-day pilot for two regional sales teams (40 users total).
+4) Deliver ROI model tied to forecast accuracy and admin-time reduction.

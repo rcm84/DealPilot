@@ -1,0 +1,43 @@
+Document Type: Lead Profile
+Company Name: RetailPro Commerce
+Contact Person: Daniel Ortega
+Role: Director of Revenue Operations
+Deal Stage: Qualified Lead / Problem Validation
+Lead Source: Referral from existing customer (NorthPeak Systems)
+
+Company Context:
+RetailPro sells omnichannel retail software to mid-market and enterprise brands. The company recently merged two sales orgs and now operates with mixed processes, duplicate dashboards, and uneven KPI definitions.
+
+Strategic Priorities:
+- Standardize pipeline inspection across regions.
+- Improve win rates in competitive bake-offs.
+- Shorten sales cycle for expansion deals.
+
+Pain Points:
+1) Reps spend too much time summarizing customer calls in CRM.
+2) Regional leaders disagree on deal health because notes are unstructured.
+3) Competitive intelligence is captured inconsistently and hard to search.
+4) Multi-threading is weak; many late-stage deals have only one contact.
+
+Opportunities for DealPilot:
+1) Structured note capture with tagged themes (budget, timeline, champions, blockers).
+2) AI-generated MEDDICC gap analysis for every active enterprise deal.
+3) Persona-aware battlecards delivered in-call and post-call.
+4) Automated next-step reminders tied to close-plan milestones.
+
+Key Stakeholders:
+- Economic Buyer: Priya Natarajan, CRO.
+- Technical Validator: Owen Li, Senior Salesforce Architect.
+- Process Owner: Daniel Ortega, Director of RevOps.
+
+Qualification Notes:
+- Budget: Confirmed range of $85K-$120K annual for phase 1.
+- Timeline: Pilot kickoff targeted for Q2 2026.
+- Authority: RevOps can recommend; CRO approves final contract.
+- Need: High urgency due to missed Q1 forecast target.
+
+Next Steps:
+1) Run discovery workshop focused on current pipeline review workflow.
+2) Share sample output: account brief, risk score, and follow-up email draft.
+3) Align on pilot success metrics (adoption, data quality, cycle-time impact).
+4) Confirm security review process and procurement timeline.

@@ -1,0 +1,38 @@
+Document Type: Customer Call Summary
+Company Name: FinServe Analytics
+Contact Person: Alina Petrova
+Role: Head of Enterprise Sales
+Call Date: 2026-04-01
+Call Participants: Alina Petrova (FinServe), Jordan Kim (FinServe Sales Manager), DealPilot AE, DealPilot SE
+Deal Stage: Evaluation / Technical Fit
+
+Call Objectives:
+- Validate whether DealPilot can improve forecast confidence.
+- Review integration path with Salesforce and Gong.
+- Understand rollout model for a 200-rep distributed team.
+
+Summary of Discussion:
+FinServe has strong top-of-funnel volume but suffers from late-stage slippage and inconsistent qualification discipline. Alina wants a system that helps managers intervene earlier in at-risk opportunities. Jordan emphasized the need for concise, searchable summaries that map directly to existing sales methodology checkpoints.
+
+Pain Points:
+1) Forecast category changes happen late, often during final weekly call.
+2) Managers cannot audit enough calls to coach reps effectively.
+3) Reps duplicate effort across Gong notes, Salesforce updates, and Slack recaps.
+4) Leadership lacks a single source of truth for deal progression signals.
+
+Opportunities Identified:
+1) Unified account timeline that consolidates calls, emails, and CRM updates.
+2) Auto-detection of missing decision criteria and weak champion signals.
+3) Manager dashboard for coaching queue prioritized by deal risk.
+4) AI-assisted recap emails and mutual action plan generation.
+
+Technical/Procurement Notes:
+- FinServe requires SSO (Okta) and audit logging.
+- Data retention must be configurable by region.
+- Security team requested SOC 2 report and architecture diagram.
+
+Agreed Next Steps:
+1) DealPilot to provide sandbox with Salesforce + Gong connectors enabled.
+2) FinServe to share 10 anonymized call transcripts for baseline scoring.
+3) Joint success plan to define KPI targets for pilot by 2026-04-10.
+4) Schedule executive checkpoint with CRO in week of 2026-04-14.
